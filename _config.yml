@@ -1,0 +1,157 @@
+# Site settings
+title: Sujay Bhowmick
+twitter_username: sujaybhowmick
+name: Sujay Bhowmick
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/sujaybhowmick
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/sujaybhowmick
+
+#Any buzzword skills you want to include
+skills:
+ - Java 8
+ - Kotlin
+ - Python
+ - PHP5
+ - Groovy
+ - Swift
+ - Spring Boot
+ - Gradle
+ - Maven
+ - JPA
+ - Hibernate
+ - SQL
+ - MongoDB
+ - Couchbase
+ - Redis
+ - Elasticsearch 6.x
+ - PostgreSQL
+ - MySQL
+ - Oracle
+ - Docker
+ - Android 
+ - iOS
+ - OS X
+ - Pivotal Cloud Foundry
+ - Google Cloud Platform
+ - Kubernetes
+ - Apache Beam
+ - Cloud Dataflow
+ - BigTable
+ - BigQuery
+ - REST
+ - OAuth
+ - Keras
+ - Tensorflow
+ - scikit-learn
+
+
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+
+#Work experience is required
+roles:
+ - title: Head of Engineering
+   start: Nov 2017
+   end: Ongoing
+   employer: Sentifi
+   description: Leading a team of 12 engineers in front office and data engineering engineers
+ - title: Senior Development Lead
+   start: Feb 2016
+   end: Nov 2017
+   employer: Xactly Technologies India Pvt. Ltd.
+   description: Technical and Functional Manager for the Egineering team working on the flagship product of the company.
+ - title: Engineering Manager
+   start: May 2015
+   end: Jan 2016
+   employer: Quikr India Pvt. Ltd.
+   description: Engineering Manager for the Real Estate vertical and the Web API engineering team.
+ - title: Product Solutions, Manager
+   start: Feb 20015
+   end: May 2015
+   employer: Google India Pvt. Ltd.
+   description: Working with engineers, primarily on Ad Review Operations team.
+ - title: Cofounder and Head Architect
+   start: October 2006
+   end: Feb 2011
+   employer: VnV Solutions Pvt. Ltd.
+   description: Technology Envanglist and Architect working with product and Technical Pre Sales engineering team. Part of the Cofounding team.
+
+#Education is required
+education:
+ - level: Master of Science (M.S.)
+   date: 2013
+   subject: Software Engineering
+   school: Birla Institute of Technology and Science, Pilani
+ - level: Master in Computer Application (M.C.A.)
+   date: 2003
+   subject: Computer Applications
+   school: University of Pune
+ - level: Bachelor of Science (B.Sc.)
+   date: 2000
+   subject: Mathematics
+   school: University of Mumbai
+
+#This section is optional (as is the image link below)
+
+udacity:
+   profileurl:
+   courses:
+    - title: Machine Learning Engineer Nanodegree
+      optionalimage: 
+      link: https://graduation.udacity.com/confirm/JVYXKC5A
+      date: 2017-2018
+    - title: iOS Developer Nanodegree
+      optionalimage: 
+      link: https://graduation.udacity.com/confirm/JVYXKC5A
+      date: 2017-2018
+
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Advanced Data Structures in Java
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/02/5862d0469011e58b7267fbeaf2e97c/Course3.jpg?auto=format%2Ccompress&dpr=1&fit=crop&w=225&h=130
+      link: https://www.coursera.org/account/accomplishments/verify/R629VJCSK7NN
+      date: April 4, 2016
+
+certifications:
+   courses:
+    - title: Ceritified Pivotal Cloud Foundry Developer 1.7
+      optionalimage: https://bcert.me/bc/html/img/badges/generated/badge-6175.png
+      link: http://bcert.me/sutpabyt
+      date: November 13, 2017
+   
+#List of interesting Github repo/projects to include - optional
+github:
+ - sujaybhowmick/OpenAlprDroidApp
+ - sujaybhowmick/openalpr-droidapp-native
+ - sujaybhowmick/twitter_sentiment_analysis
+ - sujaybhowmick/StockPortfolioApp   
+ - sujaybhowmick/notifications
+ - sujaybhowmick/gsitemap_generator
+ - sujaybhowmick/annotation-object-factory
+ - sujaybhowmick/online-code-evaluator
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: http://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+#Mobile apps section is optional
+#apps:
+# - name: OpenAlpr App
+#   platform: Android
+#   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+#   description: A basic early Android app (open sourced)
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo:
+   
